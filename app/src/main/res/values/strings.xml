@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Login</string>
+    <string name="user">Coreo electronico </string>
+    <string name="pass">Contraseña</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="registrar">registrar</string>
 </resources>
